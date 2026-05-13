@@ -1,0 +1,78 @@
+{C:/Users/Hp/Desktop/Hardware Engineering/Lab/BCD_adder_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/BCD_adder_tb.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity BCD_adder_tb
+-- Compiling architecture tb of BCD_adder_tb
+
+} {} {}} {C:/Users/Hp/Desktop/Hardware Engineering/Lab/CR_adder_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/CR_adder_tb.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity CR_adder_tb
+-- Compiling architecture tb of CR_adder_tb
+
+} {} {}} {C:/Users/Hp/Desktop/Hardware Engineering/Lab/BCDto7seg.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/BCDto7seg.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity BCDto7seg
+-- Compiling architecture behavioral of BCDto7seg
+
+} {} {}} {C:/Users/Hp/Desktop/Hardware Engineering/Lab/CR_add_sub.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/CR_add_sub.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity CR_add_sub
+-- Compiling architecture structural of CR_add_sub
+
+} {} {}} {C:/Users/Hp/Desktop/Hardware Engineering/Lab/full_adder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/full_adder.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity full_adder
+-- Compiling architecture structural of full_adder
+
+} {} {}} {C:/Users/Hp/Desktop/Hardware Engineering/Lab/half_adder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/half_adder.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity half_adder
+-- Compiling architecture dataflow of half_adder
+
+} {} {}} {C:/Users/Hp/Desktop/Hardware Engineering/Lab/BCDto7seg_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/BCDto7seg_tb.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity BCDto7seg_tb
+-- Compiling architecture tb of BCDto7seg_tb
+
+} {} {}} {C:/Users/Hp/Desktop/Hardware Engineering/Lab/CR_add_sub_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/CR_add_sub_tb.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity CR_add_sub_tb
+-- Compiling architecture tb of CR_add_sub_tb
+
+} {} {}} {C:/Users/Hp/Desktop/Hardware Engineering/Lab/full_adder_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/full_adder_tb.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity full_adder_tb
+-- Compiling architecture tb of full_adder_tb
+
+} {} {}} {C:/Users/Hp/Desktop/Hardware Engineering/Lab/BCD_adder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/BCD_adder.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity BCD_adder
+-- Compiling architecture structural of BCD_adder
+
+} {} {}} {C:/Users/Hp/Desktop/Hardware Engineering/Lab/CR_adder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Hp/Desktop/Hardware Engineering/Lab/CR_adder.vhd}
+Questa Altera Starter FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/Hp/Desktop/Hardware Engineering/Lab/HardwareLabex_1.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Compiling entity CR_adder
+-- Compiling architecture structural of CR_adder
+
+} {} {}}
