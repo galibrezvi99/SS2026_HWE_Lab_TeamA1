@@ -21,8 +21,8 @@
 --   COUT = (A and B) or (CIN and (A xor B))
 --
 -- Note:
---   File name contains bhv because lab asks for this name.
---   Code is structural because that is the requested method.
+--  
+--   Code is structural.
 -- ============================================================
 
 
