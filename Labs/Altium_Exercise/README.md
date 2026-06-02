@@ -1,49 +1,90 @@
-Altium Exercise – LED Running Light PCB Design
-Exercise Overview
+# Altium Exercise – LED Running Light PCB Design
 
-This exercise focuses on the design of a PCB for an LED Running Light circuit using Altium Designer. The project includes schematic capture, PCB layout creation, component placement, manual routing, and design rule verification.
+## Overview
 
-The objective is to gain practical experience with PCB design workflow and understand the relationship between schematic design and physical PCB implementation.
+This exercise demonstrates the complete design process of a LED Running Light circuit using Altium Designer. The project includes schematic design, PCB layout creation, component placement, manual routing, and design rule verification.
 
-Project Files
-LED_Running_Light.PrjPcb – Altium project file
-LED_Running_Light.SchDoc – Schematic design
-LED_Running_Light.PcbDoc – PCB layout design
-Components Used
-LEDs
-DS1 – DS12 (12 LEDs)
-Resistors
-R1 – R12 (Current limiting resistors)
-Transistors
-Q1 – Q3 (PN2222A NPN Transistors)
-Design Tasks Completed
-Schematic Design
-Created the LED running light circuit schematic
-Assigned component designators
-Connected all components according to the circuit requirements
-PCB Layout
-Imported schematic to PCB
-Arranged components manually
-Routed all PCB tracks
-Removed unrouted connections
-Optimized component placement
-Verification
-Performed Design Rule Check (DRC)
-Verified electrical connectivity
-Checked routing completion
-Learning Outcomes
+The main objective of this exercise is to understand the PCB design workflow and gain practical experience with professional Electronic Design Automation (EDA) tools.
 
-Through this exercise, the following skills were developed:
+---
 
-Schematic capture using Altium Designer
-PCB component placement
-Manual PCB routing
-Design Rule Check (DRC) analysis
-PCB project management
-GitHub project submission workflow
-Software Used
-Altium Designer 26.6
-GitHub
-Author
+## Project Files
 
-Ronjon Sarker
+| File Name | Description |
+|------------|-------------|
+| LED_Running_Light.PrjPcb | Altium project file |
+| LED_Running_Light.SchDoc | Circuit schematic |
+| LED_Running_Light.PcbDoc | PCB layout design |
+
+---
+
+## Components Used
+
+### LEDs
+- DS1 – DS12 (12 LEDs)
+
+### Resistors
+- R1 – R12 (Current Limiting Resistors)
+
+### Transistors
+- Q1 – Q3 (PN2222A NPN Transistors)
+
+---
+
+## Design Procedure
+
+### 1. Schematic Design
+- Created the LED Running Light circuit.
+- Added all required components.
+- Connected the circuit according to the design requirements.
+- Annotated component designators.
+
+### 2. PCB Layout Design
+- Imported the schematic into the PCB editor.
+- Arranged components for efficient routing.
+- Created the PCB board outline.
+- Performed manual routing of all connections.
+
+### 3. Verification
+- Checked all electrical connections.
+- Removed unrouted nets.
+- Performed Design Rule Check (DRC).
+- Verified PCB manufacturability.
+
+---
+
+## Learning Outcomes
+
+After completing this exercise, the following skills were developed:
+
+- Schematic Capture using Altium Designer
+- PCB Component Placement
+- Manual PCB Routing
+- Design Rule Verification
+- PCB Project Management
+- GitHub Version Control
+
+---
+
+## Software Used
+
+- Altium Designer Professional 26.6
+- GitHub
+
+---
+
+## Author
+
+**Ronjon Sarker**  
+Electronics Engineering Student  
+Hochschule Hamm-Lippstadt (HSHL)
+
+---
+
+## Exercise Status
+
+✅ Schematic Completed  
+✅ PCB Layout Completed  
+✅ Routing Completed  
+✅ Design Rule Check Performed  
+✅ Project Uploaded to GitHub
